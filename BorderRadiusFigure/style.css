@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+.daire{
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dortbucaq{
+    width: 100px;
+    height: 100px;
+    background-color: mediumslateblue;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.yarim4bucaq{
+    width: 100px;
+    height: 100px;
+    background-color: lightseagreen;
+    border-bottom-left-radius: 100%;
+    display: inline-block;
+}
+.daire2{
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.youtube{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border-radius: 20px;
+    position: relative;
+}
+
+.emblem{
+    background-color: aliceblue;
+    clip-path: polygon(0 0, 0% 100%, 80% 53%);
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+    left: 80px;
+}
+
+
+.shape{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.google1{
+    height: 60px;
+    background-color: #f6b800;
+    border-radius:  100px 100px 10px 10px; 
+    margin-top: -40px;
+    
+}
+
+.google2{
+    width: 60px;
+    background-color: #e64132;
+    border-radius: 10px 100px 100px 10px;
+    
+}
+
+.google3{
+    width: 60px;
+    background-color: #31a452;
+    border-radius:  100px 10px 10px  100px; 
+    margin-bottom: -50px;
+    margin-left: 40px;
+    
+}
+
+.google4{
+    height: 60px;
+    background-color: #4081ef;
+    border-radius:  10px 10px 100px 100px;
+    margin-bottom: -10px;
+    
+}
+
+.Figure{
+    display: inline-block;
+}
+
+.youtube{
+    display: inline-block;
+    margin-left: 500px;
+}
+
+.Google{
+    display: inline-block;
+    margin-left: 1200px;
+    margin-bottom: 300px;
+
+}
